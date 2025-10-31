@@ -1,2 +1,2 @@
-# Causal GNN XAI – Fraud Detection (Demo Repo)
+# Causal GNN XAI – Fraud Detection
 See README for quickstart.
